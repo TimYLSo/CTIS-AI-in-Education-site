@@ -23,8 +23,3 @@ Another key issue with Generative AI highlighted in _Investigating the Impact of
 **Implementation of AI in school**
 
 **Opportunity and challenges of ai implementation**
-
-| **Link/Website** | **Copy + Pasted info** | **Paraphrased info** | **Notes/Where this will be used** |
-| --- | --- | --- | --- |
-|     |     |     |     |
-|     |     |     |     |
