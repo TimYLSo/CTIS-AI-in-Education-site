@@ -4,19 +4,11 @@
           Times, serif;
 		  color: rgb(0, 0, 0);
     background-color: #ffffff }
-	 ul.navbar {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-	position: absolute;
-    top: 2em;
-    left: 1em;
-    width: 10em }
+
 	h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		ul.navbar li {
-    background: white;
     margin: 0.5em 0;
     padding: 0.3em;
     border-right: 1em solid black }
@@ -30,3 +22,29 @@
     margin-top: 1em;
     padding-top: 1em;
     border-top: thin dotted }
+    /* Basic styling for the navigation bar */  
+    ul.navbar {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    position: absolute;
+      top: 2em;
+      left: 1em;
+      width: 10em }
+.navbar {  
+  background-color: #333; 
+}  
+  
+/* Style for navigation bar links */  
+.navbar a {  
+  float: left; /* Float the links to the left */  
+  display: block; /* Display links as blocks */  
+  color: white; /* text color */  
+  text-align: center; /* Center-align the text */  
+  padding: 14px 16px; /* Padding around the links */  
+}  
+  
+.navbar a:hover {  
+  background-color: #ddddddc5; 
+  color: rgb(0, 0, 0); 
+}  
