@@ -3,15 +3,15 @@
    font-family: Georgia, "Times New Roman",
           Times, serif;
 		  color: rgb(0, 0, 0);
-    background-color: #ffffff }
-
+      background: rgb(125, 174, 184);
+        }
 	h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		ul.navbar li {
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    }
   ul.navbar a {
     text-decoration: none }
   a:link {
@@ -32,7 +32,7 @@
       left: 1em;
       width: 10em }
 .navbar {  
-  background-color: #333; 
+  background-color: #b61f1f; 
 } 
 
 
