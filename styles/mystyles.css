@@ -22,7 +22,7 @@
     margin-top: 1em;
     padding-top: 1em;
     border-top: thin dotted }
-    /* Basic styling for the navigation bar */  
+   
     ul.navbar {
       list-style-type: none;
       padding: 0;
@@ -35,18 +35,18 @@
   background-color: #333; 
 } 
 
-/* Make each paragraph the right size*/
+
 .main-text{
   width: 70%;
 }
   
-/* Style for navigation bar links */  
+
 .navbar a {  
-  float: left; /* Float the links to the left */  
-  display: block; /* Display links as blocks */  
-  color: white; /* text color */  
-  text-align: center; /* Center-align the text */  
-  padding: 14px 16px; /* Padding around the links */  
+  float: left; 
+  display: block; 
+  color: white; 
+  text-align: left; 
+  padding: 14px 16px;   
 }  
   
 .navbar a:hover {  
